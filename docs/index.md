@@ -7,8 +7,8 @@ hero:
   tagline: JS 重难点知识手册
   actions:
     - theme: brand
-      text: Quick Start
-      link: /guide/
+      text: 快速开始
+      link: /hand/
     - theme: alt
       text: Github
       link: https://github.com/lossercode/js-exam

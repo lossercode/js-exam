@@ -1,0 +1,9 @@
+[
+  {
+    "type": "dir",
+    "name": "basic",
+    "label": "基础模块",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
